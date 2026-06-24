@@ -46,9 +46,8 @@
 ### 🌟 **Featured Projects**
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📖 calculator](https://anshcoder24.github.io/calculator/) | simple features | HTML + CSS + JS 
-
-| [📖 snakeGame](https://anshcoder24.github.io/snakeGame/) | simple features | python |
+| [📖 calculator](https://anshcoder24.github.io/calculator/) | simple Calculator | HTML + CSS + JS 
+| [📖 snakeGame](https://anshcoder24.github.io/snakeGame/) | Snake GAME | python |
 ---
 
 ### 📫 **Connect With Me**
