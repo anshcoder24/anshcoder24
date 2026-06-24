@@ -46,7 +46,7 @@
 ### 🌟 **Featured Projects**
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📖 Classic Chess Game](https://anshcoder24.github.io/Classic-Chess-Game/) | Two Player Chess Game  | HTML + CSS + JS |
+| [📖 Classic Chess Game](https://anshcoder24.github.io/Classic-Chess-Game/) | Two Player  | HTML + CSS + JS |
 ---
 
 ### 📫 **Connect With Me**
