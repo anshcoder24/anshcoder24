@@ -47,7 +47,7 @@
 | Project | Description | Tech |
 |---------|-------------|------|
 | [📖 calculator](https://anshcoder24.github.io/calculator/) | simple Calculator | HTML + CSS + JS 
-| [📖 snakeGame](https://anshcoder24.github.io/snakeGame/) | Snake GAME | python |
+| [📖 snakeGame.py](https://anshcoder24.github.io/snakeGame/) | Snake GAME | python |
 ---
 
 ### 📫 **Connect With Me**
