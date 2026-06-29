@@ -33,7 +33,7 @@
 ### 📊 **GitHub Stats**
 <div align="center">
   
-  ![Gaurav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshcoder24&show_icons=true&theme=radical&hide_border=true)
+  ![Ansh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshcoder24&show_icons=true&theme=radical&hide_border=true)
   
   ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anshcoder24&layout=compact&theme=radical&hide_border=true)
   
