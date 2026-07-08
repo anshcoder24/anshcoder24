@@ -46,8 +46,9 @@
 ### 🌟 **Featured Projects**
 | Project | Description | Tech |
 |---------|-------------|------|
-| [📖 calculator](https://anshcoder24.github.io/calculator/) | simple Calculator | HTML + CSS + JS 
-| [📖 CLock](https://github.com/anshcoder24.github.io/CLOCK/) | REAL TIME CLOCK | HTML + CSS + JS
+| [📖 calculator](https://anshcoder24.github.io/calculator/) | simple Calculator | HTML + CSS + JS|
+| [📖 calculator](https://anshcoder24.github.io/Portfolio-Website/) | simple portfolio website | HTML + CSS |
+| [📖 CLock](https://github.com/anshcoder24.github.io/CLOCK/) | REAL TIME CLOCK | HTML + CSS + JS| 
 | [📖 snakeGame.py](https://anshcoder24.github.io/snakeGame/) | Snake GAME | python |
 ---
 
