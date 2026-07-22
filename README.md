@@ -48,8 +48,8 @@
 |---------|-------------|------|
 | [📖 calculator](https://anshcoder24.github.io/calculator/) | simple Calculator | HTML + CSS + JS|
 | [📖 Portfolio website](https://anshcoder24.github.io/Portfolio-Website/) | simple portfolio website | HTML + CSS |
-| [📖 Login Project](https://github.com/anshcoder24.github.io/CLOCK/) | Login Project| PYTHON + HTML + CSS + FLASK| 
-| [📖 Student management system](https://student-management-system-kqjy.onrender.com) | Studnet management system | Python+HTML FLASK+CSS |
+| [📖 Login Project](https://login-project-8a1o.onrender.com) | Login Project| PYTHON + HTML + CSS + FLASK| 
+| [📖 Student management system](https://student-management-system-kqjy.onrender.com) | Studnet management system | Python+HTML+ FLASK+CSS |
 
 ---
 
